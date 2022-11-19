@@ -1,5 +1,6 @@
 import logo from "../../assets/img/logo.svg"
 
+import "./styles.css"
 
 function Header() {
     return (
@@ -9,7 +10,7 @@ function Header() {
                 <h1>DSMeta</h1>
                 <p>
                     Desenvolvido por mim 
-                    <a href="https://www.instagram.com/cr3junior/">@cr3junior</a>
+                    <a href="https://www.instagram.com/cr3junior/"> @cr3junior</a>
                 </p>
             </div>
 
